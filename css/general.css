@@ -25,41 +25,8 @@ body {
 h1 {
     font-family: Georgia, "Times New Roman", serif;
     font-size: 3rem; /* 1 rem = 16px */
-    font-weight: normal;
-}
-
-p,
-li {
-    font-size: 1rem;
-    line-height: 1.5rem;
-}
-
-h1 + p {
-    font-size: 1.5rem;
-    line-height: 1.75rem  
-}
-
-strong {
-    font-weight: bold;
-}
-
-p strong {
-    color: #39f;
-}
-
-em {
-    font-style: italic;
-}
-
-hr {
-    border: solid 4px #F00
-}
-
-ul,
-ol{
-    background-color: #FFF
-}
-
+    font-weight: normal
+        
 li {
     color: #F00
 }
